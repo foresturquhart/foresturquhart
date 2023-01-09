@@ -51,19 +51,11 @@
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" />  
 </div>
 
-## <div align="center">I'm 🌲 Forest, a remote, full-time web software developer 🚀</div>
-  
-- 🔭 **What am I up to?** I'm working on a series of FFI-based PHP extensions, alongside a minimal version of Docker for Mac  
-- 🌱 **What's new?** I'm learning Rust, Swift and Angular, and reverse engineering solutions for efficient Mac virtualisation  
-- ❓ **Need advice?** Feel free to ask me about anything related to Go, PHP, Laravel or Docker  
-- ⚡ **Any hobbies?** I hang out with my friends and my dog, play guitar (and Call of Duty), and work on my projects  
+## <div align="center">I'm Forest: web software developer 🚀</div>
   
 <div align="center">
   <a href="https://github.com/foresturquhart" target="_blank">
     <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://twitter.com/foresturquhart" target="_blank">
-    <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
   </a>
   <a href="https://linkedin.com/in/foresturquhart" target="_blank">
     <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -71,14 +63,6 @@
 </div>
 
 <br/>
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=l0wqyk46stecws26irdxnxhvq&cover_image=true&theme=compact" /></div>
- 
-<div align="center">
-  <a href="https://www.buymeacoffee.com/foresturquhart" target="_blank" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" align="center" />
-  </a>
-</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=forestlovewood&&style=flat-square" align="center" />
